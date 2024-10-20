@@ -131,32 +131,6 @@ You can adjust the priority level for relevant tickets by clicking on the Priori
 
 
 
-![image](https://github.com/user-attachments/assets/bc5a9e96-0dd0-4612-84ab-d54cb58101cd)
 
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/6d1691ae-78cb-4b9f-8237-a5cd820cad1e)
-
-
-
-
-![image](https://github.com/user-attachments/assets/f137e634-80fb-4a0f-8e19-1d9386d64850)
-
-
-
-<p>
-Under the same "Manage" tab go to the "Help Topics" tab and create four help topics named, "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset" all with the same settings like so:/p>
-<br />
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/b51f244d-1901-4235-963a-ec6f94a73563)
-
+![image](https://github.com/user-attachments/assets/c723ff09-9680-473e-acda-6a259b25622e)
 
